@@ -56,6 +56,9 @@ I'm a Principal Cloud Platform Engineer at FLYR, Inc., passionate about cloud ar
 
 <div align="center">
 
+[![Devops ADK Agent](https://github-readme-stats.vercel.app/api/pin/?username=BlueCentre&repo=adk-agents&theme=github_dark)](https://github.com/BlueCentre/adk-agents)  
+<sub>An intelligent Devops Agent built with, and runs on ADK core engine.</sub>
+
 [![Monorepo Blueprint](https://github-readme-stats.vercel.app/api/pin/?username=BlueCentre&repo=monorepo&theme=github_dark)](https://github.com/BlueCentre/monorepo)  
 <sub>A scalable monorepo template for cloud-native microservices, maintained and architected by me.</sub>
 
