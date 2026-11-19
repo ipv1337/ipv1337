@@ -51,6 +51,7 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 
 ### ✨ Notable Open Source Contributions
 
+- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) — Fixed host key verification for secret-based SSH write-back ([#1816](https://github.com/argoproj-labs/argocd-image-updater/pull/1816))
 - [VitruvianSoftware/pulumi_go-example-foundation](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) — Production-ready Pulumi Go implementation of the Google Cloud Enterprise Foundations Blueprint
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) — Contributed modules and best practices for enterprise-scale GCP foundations
 - [BlueCentre/adk-agents](https://github.com/BlueCentre/adk-agents) — Intelligent DevOps agents built on Google's Agent Development Kit (ADK)
