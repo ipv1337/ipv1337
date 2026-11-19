@@ -53,7 +53,9 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) — Fixed host key verification for secret-based SSH write-back ([#1816](https://github.com/argoproj-labs/argocd-image-updater/pull/1816))
 - [VitruvianSoftware/pulumi_go-example-foundation](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) — Production-ready Pulumi Go implementation of the Google Cloud Enterprise Foundations Blueprint
-- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) — Contributed modules and best practices for enterprise-scale GCP foundations
+- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) — Fixed Cloud Build plan service account handling in `1-org` ([#629](https://github.com/terraform-google-modules/terraform-example-foundation/pull/629))
+- [terraform-google-modules/terraform-google-composer](https://github.com/terraform-google-modules/terraform-google-composer) — Fixed module usage parameters, lint tests, and generated docs ([#4](https://github.com/terraform-google-modules/terraform-google-composer/pull/4), [#7](https://github.com/terraform-google-modules/terraform-google-composer/pull/7))
+- [terraform-google-modules/terraform-google-secret](https://github.com/terraform-google-modules/terraform-google-secret) — Documentation improvements ([#25](https://github.com/terraform-google-modules/terraform-google-secret/pull/25))
 - [BlueCentre/adk-agents](https://github.com/BlueCentre/adk-agents) — Intelligent DevOps agents built on Google's Agent Development Kit (ADK)
 
 ### ✍️ Latest Blog Posts ([ipv1337.dev](https://ipv1337.dev/blog/))
