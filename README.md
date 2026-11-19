@@ -1,15 +1,14 @@
 # 👋 Hello, I'm James H. Nguyen
 
-🚀 Empowering teams with secure, scalable cloud platforms and DevOps excellence.
+🚀 Empowering teams with scalable cloud platforms, autonomous AI agent systems, and developer tooling.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipv1337&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipv1337&theme=github-dark-blue" alt="GitHub Streak" height="170" />
+  <img src="./assets/github-stats.svg" alt="James H. Nguyen GitHub Overview" width="100%" />
 </div>
 
-## 👨‍💻 Principal Cloud Platform Engineer
+## 👨‍💻 Head of Platform Engineering & Agents
 
-> Building infrastructure and platform solutions that enable teams to ship better code faster.
+> Architecting cloud platforms and AI agent workflows that help engineering teams ship faster and more reliably.
 
 ### 🛠️ Technologies & Tools
 
@@ -17,10 +16,12 @@
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -28,61 +29,49 @@
 
 ### 🌟 About Me
 
-I'm a Principal Cloud Platform Engineer at FLYR, Inc., passionate about cloud architecture, infrastructure as code, and DevOps methodologies. I love architecting solutions that make engineering teams more productive and platforms more reliable. Recently, I led the design and rollout of a multi-cloud CI/CD platform that cut deployment times by 60%.
+I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, infrastructure as code, AI agent orchestration, and developer productivity. My open-source work lives under [**VitruvianSoftware**](https://github.com/VitruvianSoftware).
 
-- 🔭 Currently working at [FLYR, Inc.](https://flyr.com)
-- 🌱 Always learning about cloud-native technologies and infrastructure patterns
-- 👯 Looking to collaborate on open-source infrastructure and platform engineering projects
+- 🤖 Building AI agent tooling, MCP servers, and native developer apps under [VitruvianSoftware](https://github.com/VitruvianSoftware)
+- ☁️ Deep background in Google Cloud foundations, Terraform/Pulumi IaC, Kubernetes, and multi-region platform engineering
+- ✍️ Writing about agentic coding, virtual engineering orgs, and systems architecture at [ipv1337.dev/blog](https://ipv1337.dev/blog/)
 - 📍 Based in Irvine, CA
-- 🏆 Notable achievement: Automated security compliance for multi-region cloud deployments
 
-### 🏆 GitHub Achievements
+### 🔥 Featured Open Source Projects ([VitruvianSoftware](https://github.com/VitruvianSoftware))
 
-<div align="center">
-
-![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair_Extraordinaire_×3-13c4a5?style=for-the-badge&logo=github)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-f7d499?style=for-the-badge&logo=github)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark_×4-blue?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-orange?style=for-the-badge&logo=github)
-
-</div>
+<!-- VITRUVIAN-REPOS:START -->
+| Project | Language | Description |
+|---------|----------|-------------|
+| [**VitruvianSoftware/vitruvian-code**](https://github.com/VitruvianSoftware/vitruvian-code) | `Swift` | Vitruvian Code: a macOS menu bar app and Telegram bot that connects your messages to local AI coding tools. |
+| [**VitruvianSoftware/vitruvian-devx**](https://github.com/VitruvianSoftware/vitruvian-devx) | `Go` | Supercharged local dev environment |
+| [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `Swift` | Vitruvian Software Monorepo |
+| [**VitruvianSoftware/mini-party**](https://github.com/VitruvianSoftware/mini-party) | `TypeScript` | Mini Party: rapid-fire party mini-games for up to 4 players |
+| [**VitruvianSoftware/pulumi_go-example-foundation**](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) | `Go` | Pulumi Golang implementation of the Google Cloud Enterprise Foundations Blueprint — production-ready, modular, with full parity to the upstream Terraform reference. |
+| [**VitruvianSoftware/vitruvian-remote**](https://github.com/VitruvianSoftware/vitruvian-remote) | `Kotlin` | Vitruvian Remote: an Android remote control and observability console for a Mac |
+<!-- VITRUVIAN-REPOS:END -->
 
 ### ✨ Notable Open Source Contributions
 
-- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) – Contributed modules and best practices for enterprise-scale GCP foundations
-- [BlueCentre/monorepo](https://github.com/BlueCentre/monorepo) – Architected scalable monorepo template for microservices
+- [VitruvianSoftware/pulumi_go-example-foundation](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) — Production-ready Pulumi Go implementation of the Google Cloud Enterprise Foundations Blueprint
+- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) — Contributed modules and best practices for enterprise-scale GCP foundations
+- [BlueCentre/adk-agents](https://github.com/BlueCentre/adk-agents) — Intelligent DevOps agents built on Google's Agent Development Kit (ADK)
 
-### 🔥 Featured Projects
+### ✍️ Latest Blog Posts ([ipv1337.dev](https://ipv1337.dev/blog/))
 
-<div align="center">
-
-[![Devops ADK Agent](https://github-readme-stats.vercel.app/api/pin/?username=BlueCentre&repo=adk-agents&theme=github_dark)](https://github.com/BlueCentre/adk-agents)  
-<sub>An intelligent Devops Agent built with, and runs on ADK core engine.</sub>
-
-[![Monorepo Blueprint](https://github-readme-stats.vercel.app/api/pin/?username=BlueCentre&repo=monorepo&theme=github_dark)](https://github.com/BlueCentre/monorepo)  
-<sub>A scalable monorepo template for cloud-native microservices, maintained and architected by me.</sub>
-
-[![Terraform Example Foundation](https://github-readme-stats.vercel.app/api/pin/?username=terraform-google-modules&repo=terraform-example-foundation&theme=github_dark)](https://github.com/terraform-google-modules/terraform-example-foundation)  
-<sub>Enterprise-ready GCP foundation using Terraform, with contributions to automation and security best practices.</sub>
-
-</div>
-
-### 💡 Skills Matrix
-
-| Cloud | IaC | Languages      | Containers     | CI/CD      | Monitoring   |
-|-------|-----|---------------|---------------|------------|-------------|
-| GCP   | TF  | Go, Python    | Docker, K8s   | GH Actions | Prometheus  |
+<!-- BLOG-POSTS:START -->
+- [Hybrid Project-Scoped AI Bots with OpenClaw](https://ipv1337.dev/blog/posts/hybrid-project-bots.html) — _2026-02-27_
+- [Making It Stick — Teaching Your AI Workflow to Self-Organize](https://ipv1337.dev/blog/posts/virtual-eng-org-part-4.html) — _2026-02-26_
+- [Agentic Coding: Why the Next Productivity Leap Is About Collaboration, Not Autocomplete](https://ipv1337.dev/blog/posts/agentic-coding.html) — _2026-02-25_
+- [The Orchestration Skill — Automating the Workflow](https://ipv1337.dev/blog/posts/virtual-eng-org-part-3.html) — _2026-02-07_
+- [Giving Each Agent a Desk — Persistent Identities](https://ipv1337.dev/blog/posts/virtual-eng-org-part-2.html) — _2026-02-07_
+<!-- BLOG-POSTS:END -->
 
 ### 📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ipv1337-181717?style=for-the-badge&logo=github)](https://github.com/ipv1337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/james-nguyen-601a92)
-[![Website](https://img.shields.io/badge/Website-Portfolio-00C7B7?style=for-the-badge&logo=netlify)](https://ipv1337.github.io)
+[![Website](https://img.shields.io/badge/Website-ipv1337.dev-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ipv1337.dev)
+[![VitruvianSoftware](https://img.shields.io/badge/Open_Source-VitruvianSoftware-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitruvianSoftware)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-nguyen-601a92/)
+[![X](https://img.shields.io/badge/X-@ipv1337-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ipv1337)
 
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ipv1337.ipv1337" alt="Visitors" />
 </div>
