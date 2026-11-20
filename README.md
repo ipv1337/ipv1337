@@ -44,9 +44,9 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 | [**VitruvianSoftware/vitruvian-code**](https://github.com/VitruvianSoftware/vitruvian-code) | `Swift` | Vitruvian Code: a macOS menu bar app and Telegram bot that connects your messages to local AI coding tools. |
 | [**VitruvianSoftware/vitruvian-devx**](https://github.com/VitruvianSoftware/vitruvian-devx) | `Go` | Supercharged local dev environment |
 | [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `Swift` | Vitruvian Software Monorepo |
-| [**VitruvianSoftware/mini-party**](https://github.com/VitruvianSoftware/mini-party) | `TypeScript` | Mini Party: rapid-fire party mini-games for up to 4 players |
+| [**VitruvianSoftware/vitruvian-courier**](https://github.com/VitruvianSoftware/vitruvian-courier) | `Swift` | Vitruvian Courier: every chat app in one inbox, as a native macOS app |
+| [**VitruvianSoftware/vitruvian-party**](https://github.com/VitruvianSoftware/vitruvian-party) | `TypeScript` | Mini Party: rapid-fire party mini-games for up to 4 players |
 | [**VitruvianSoftware/pulumi_go-example-foundation**](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) | `Go` | Pulumi Golang implementation of the Google Cloud Enterprise Foundations Blueprint — production-ready, modular, with full parity to the upstream Terraform reference. |
-| [**VitruvianSoftware/vitruvian-remote**](https://github.com/VitruvianSoftware/vitruvian-remote) | `Kotlin` | Vitruvian Remote: an Android remote control and observability console for a Mac |
 <!-- VITRUVIAN-REPOS:END -->
 
 ### ✨ Notable Open Source Contributions
