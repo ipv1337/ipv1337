@@ -45,8 +45,8 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 | [**VitruvianSoftware/vitruvian-devx**](https://github.com/VitruvianSoftware/vitruvian-devx) | `Go` | Supercharged local dev environment |
 | [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `Swift` | Vitruvian Software Monorepo |
 | [**VitruvianSoftware/vitruvian-courier**](https://github.com/VitruvianSoftware/vitruvian-courier) | `Swift` | Vitruvian Courier: every chat app in one inbox, as a native macOS app |
+| [**VitruvianSoftware/vitruvian-orchestrator-antigravity**](https://github.com/VitruvianSoftware/vitruvian-orchestrator-antigravity) | `JavaScript` | Antigravity plugin: a lead agent plans the work, specialist agents do it, and a live panel shows the plan, the board and the spend |
 | [**VitruvianSoftware/vitruvian-party**](https://github.com/VitruvianSoftware/vitruvian-party) | `TypeScript` | Mini Party: rapid-fire party mini-games for up to 4 players |
-| [**VitruvianSoftware/pulumi_go-example-foundation**](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) | `Go` | Pulumi Golang implementation of the Google Cloud Enterprise Foundations Blueprint — production-ready, modular, with full parity to the upstream Terraform reference. |
 <!-- VITRUVIAN-REPOS:END -->
 
 ### ✨ Notable Open Source Contributions
