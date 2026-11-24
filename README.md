@@ -43,10 +43,10 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 |---------|----------|-------------|
 | [**VitruvianSoftware/vitruvian-code**](https://github.com/VitruvianSoftware/vitruvian-code) | `Swift` | Vitruvian Code: a macOS menu bar app and Telegram bot that connects your messages to local AI coding tools. |
 | [**VitruvianSoftware/vitruvian-devx**](https://github.com/VitruvianSoftware/vitruvian-devx) | `Go` | Supercharged local dev environment |
-| [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `Swift` | Vitruvian Software Monorepo |
+| [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `JavaScript` | Vitruvian Software Monorepo |
 | [**VitruvianSoftware/vitruvian-atrium**](https://github.com/VitruvianSoftware/vitruvian-atrium) | `Swift` | Vitruvian Atrium: a macOS menu bar utility hub. GPL-3.0 fork of vorssaint-utils, not an official Vorssaint build |
-| [**VitruvianSoftware/vitruvian-sdk**](https://github.com/VitruvianSoftware/vitruvian-sdk) | `Rust` | Vitruvian Tool SDK: build extensions for Vitruvian Atrium with the protocol, the Swift kit and the vitruvian-tool command |
-| [**VitruvianSoftware/pulumi_go-example-foundation**](https://github.com/VitruvianSoftware/pulumi_go-example-foundation) | `Go` | Pulumi Golang implementation of the Google Cloud Enterprise Foundations Blueprint — production-ready, modular, with full parity to the upstream Terraform reference. |
+| [**VitruvianSoftware/vitruvian-courier**](https://github.com/VitruvianSoftware/vitruvian-courier) | `Swift` | Vitruvian Courier: every chat app in one inbox, as a native macOS app |
+| [**VitruvianSoftware/vitruvian-orchestrator-opencode**](https://github.com/VitruvianSoftware/vitruvian-orchestrator-opencode) | `JavaScript` | OpenCode plugin: a lead agent plans the work, specialist agents do it, and a live sidebar shows the plan, the board and the spend |
 <!-- VITRUVIAN-REPOS:END -->
 
 ### ✨ Notable Open Source Contributions
