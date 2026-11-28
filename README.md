@@ -44,9 +44,9 @@ I'm a **Head of Platform Engineering & Agents** focused on cloud architecture, i
 | [**VitruvianSoftware/vitruvian-code**](https://github.com/VitruvianSoftware/vitruvian-code) | `Swift` | Vitruvian Code: a macOS menu bar app and Telegram bot that connects your messages to local AI coding tools. |
 | [**VitruvianSoftware/vitruvian-devx**](https://github.com/VitruvianSoftware/vitruvian-devx) | `Go` | Supercharged local dev environment |
 | [**VitruvianSoftware/vitruvian-core**](https://github.com/VitruvianSoftware/vitruvian-core) | `Swift` | Vitruvian Software Monorepo |
-| [**VitruvianSoftware/vitruvian-courier**](https://github.com/VitruvianSoftware/vitruvian-courier) | `Swift` | Vitruvian Courier: every chat app in one inbox, as a native macOS app |
-| [**VitruvianSoftware/vitruvian-remote**](https://github.com/VitruvianSoftware/vitruvian-remote) | `Kotlin` | Vitruvian Remote: an Android remote control and observability console for a Mac |
-| [**VitruvianSoftware/vitruvian-wand**](https://github.com/VitruvianSoftware/vitruvian-wand) | `Rust` | Vitruvian Wand: a Google Daydream controller as an air mouse for macOS, Linux, Android and Android TV |
+| [**VitruvianSoftware/vitruvian-atrium**](https://github.com/VitruvianSoftware/vitruvian-atrium) | `Swift` | Vitruvian Atrium: a macOS menu bar utility hub. GPL-3.0 fork of vorssaint-utils, not an official Vorssaint build |
+| [**VitruvianSoftware/pulumi_ts-example-foundation**](https://github.com/VitruvianSoftware/pulumi_ts-example-foundation) | `TypeScript` | Pulumi TypeScript implementation of the Google Cloud Enterprise Foundations Blueprint — production-ready, modular, with full parity to the upstream Terraform reference. |
+| [**VitruvianSoftware/oauth-user-inspector**](https://github.com/VitruvianSoftware/oauth-user-inspector) | `Rust` | OAuth User Inspector — one-way mirror of vitruvian-core/oauth-user-inspector (source of truth) |
 <!-- VITRUVIAN-REPOS:END -->
 
 ### ✨ Notable Open Source Contributions
